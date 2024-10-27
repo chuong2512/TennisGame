@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Tennis Mobile/Scenes/Menu.unity
+    guid: e76f5e502fb66334aa55b0b4682fff3e
+  - enabled: 1
     path: Assets/Tennis Mobile/Scenes/Game scene.unity
     guid: b8ce6bd324a432c43a8238329791d0e4
   - enabled: 1
